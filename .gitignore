@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local browser/session state
+.cvs-chrome-profile/
+.chrome*/
+
+# Generated course data and notes
+outputs/
+raw/
+weekly_data.json
+weekly_notes.md
+exam_type_review.md
+*.docx
+*.pdf
+
+# Course media and logs
+*.mp4
+*.m4v
+*.mov
+*.webm
+*.flv
+*.m3u8
+*.ts
+*.log
+
+# Secrets
+.env
+.env.*
+cookies.txt
+secrets.*
+*.sqlite
+*.db
