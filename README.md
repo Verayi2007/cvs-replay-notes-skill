@@ -25,7 +25,7 @@
 
 <div align="center">
 
-## 用户.skill
+## 用户指南
 
 > “你只要给课程链接和考试题型，剩下交给 Agent 跑。”
 
@@ -145,7 +145,7 @@ raw/*.json             原始接口响应，只建议本地保存
 
 <div align="center">
 
-## Agent.skill
+## Agent 指南
 
 > “先拿授权数据，再整理知识点，最后按题型变成复习材料。”
 
@@ -247,7 +247,7 @@ python .\scripts\cvs_weekly_notes_exporter.py --from-data ".\outputs\weekly_xxx\
 
 <div align="center">
 
-## 爬取.skill
+## 爬取原理
 
 > “它爬的不是视频，而是官方页面已经使用的学习数据。”
 
@@ -291,7 +291,7 @@ course/ai/translate/{courseId}
 
 <div align="center">
 
-## 押题.skill
+## 押题逻辑
 
 > “按题型整理考点，但不假装自己能保证命题。”
 
@@ -346,7 +346,7 @@ course/ai/translate/{courseId}
 
 <div align="center">
 
-## 安全.skill
+## 安全边界
 
 > “只处理用户有权访问的课程，只公开工具代码，不公开课程内容。”
 
