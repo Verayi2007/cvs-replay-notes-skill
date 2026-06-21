@@ -1,11 +1,11 @@
 ---
-name: cvs-replay-notes
-description: Export and organize authorized CVS/东南大学课程回放学习数据 into weekly Markdown or DOCX notes. Use when the user asks to crawl,抓取,导出,整理,总结,按周生成, or复盘 CVS course replay pages, especially URLs under cvs.seu.edu.cn play-center; includes the safe browser-login/CDP workflow, the exact AI-summary/transcript APIs to fetch, compliance boundaries, and note-generation steps.
+name: final-exam-cram
+description: Export and organize authorized CVS/东南大学课程回放学习数据 into week-by-week notes and exam-type review material. Use when the user asks for 期末速成, crawl,抓取,导出,整理,总结,押题,按题型整理考点, or复盘 CVS course replay pages, especially URLs under cvs.seu.edu.cn play-center; includes the safe browser-login/CDP workflow, exact AI-summary/transcript APIs, compliance boundaries, and note-generation steps.
 ---
 
-# CVS Replay Notes
+# 期末速成
 
-Use this skill to turn an authorized CVS course replay page into usable course notes, then optionally reorganize the material by exam question type.
+Use this skill to turn an authorized CVS course replay page into usable week-by-week course notes, then optionally reorganize the material by exam question type for final-exam review.
 
 ## Safety First
 

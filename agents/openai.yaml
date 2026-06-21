@@ -1,4 +1,4 @@
 interface:
-  display_name: "CVS 回放笔记"
-  short_description: "导出任意授权课程回放并按题型整理考点"
-  default_prompt: "Use $cvs-replay-notes to export an authorized CVS replay course and organize likely exam points by question type."
+  display_name: "期末速成"
+  short_description: "把授权课程回放整理成按周笔记和题型考点复习材料"
+  default_prompt: "Use $final-exam-cram to export an authorized CVS replay course and organize week notes plus exam points by question type."
